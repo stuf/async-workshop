@@ -1,0 +1,15 @@
+{
+  "name": "async-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stuf/async-workshop.git",
+  "author": "Stefan Rimaila <stefan@rimaila.fi>",
+  "license": "MIT",
+  "dependencies": {
+    "kefir": "^3.7.4"
+  },
+  "devDependencies": {
+    "@types/kefir": "^3.7.0",
+    "shelljs": "^0.7.8"
+  }
+}
