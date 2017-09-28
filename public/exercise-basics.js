@@ -40,3 +40,19 @@ const valueForLater = undefined;
 // valueNot10Error.log('valueNot10Error');
 // willNeverWork.log('willNeverWork');
 // valueForLater.log('valueForLater');
+
+/**
+ * Finally, attach observers to your streams and set the text to an element
+ * that has the same ID as the variable's name, e.g. `valueForLater` has an element
+ * with the ID `valueForLater`.
+ *
+ * HINT: You can use `setIntoElement(id, text)`
+ *
+ * - Are all the values set properly? If not, why?
+ * - If values are missing, check the Kefir documentation for `observe`
+ *   to see if there exists a way that you can use to react to something happening in that Observable.
+ */
+// constant10.observe();
+// valueNot10Error.observe();
+// willNeverWork.observe();
+// valueForLater.observe();
