@@ -6,10 +6,14 @@
   "author": "Stefan Rimaila <stefan@rimaila.fi>",
   "license": "MIT",
   "dependencies": {
-    "kefir": "^3.7.4"
+    "kefir": "^3.7.4",
+    "normalize.css": "^7.0.0",
+    "ramda": "^0.24.1"
   },
   "devDependencies": {
     "@types/kefir": "^3.7.0",
+    "@types/ramda": "^0.24.11",
+    "@types/shelljs": "^0.7.4",
     "shelljs": "^0.7.8"
   }
 }
