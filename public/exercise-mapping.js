@@ -36,7 +36,7 @@ const modified = undefined;
 const modifiedError = undefined;
 
 /**
- * Finally,
+ * Finally, `observe` every
  */
 // tick.observe();
 // modified.observe();
